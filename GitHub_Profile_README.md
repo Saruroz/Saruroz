@@ -39,7 +39,7 @@ Juego clásico Snake implementado en Java puro.
 ## 📫 Contacto
 
 - 📧 ruizsantiago182@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-ruiz) ← *(actualiza este link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-arr/) 
 - 📍 Barcelona, España
 
 ---
